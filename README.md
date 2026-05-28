@@ -1,42 +1,59 @@
-# Hi there, I'm Rufuspitta-ux 👋
+# Rufus Pitta | Biomedical Engineer & Medical AI Developer 👋
 
-I'm an AI/ML Engineer with a passion for developing intelligent systems that solve real-world problems. My expertise lies in machine learning, deep learning, and data science, with a focus on creating impactful applications in healthcare and design automation.
+Final-year Biomedical Engineering student specializing in medical AI, clinical 
+signal processing, and assistive device development. I build end-to-end systems 
+that bridge hardware and software — from ECG classifiers trained on clinical 
+databases to AI-assisted CAD tools for prosthetic design.
 
-## 🚀 My Latest Projects
-
-### [ECG Arrhythmia Classifier](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier)
-
-A professional machine learning project for **ECG arrhythmia classification** using the MIT-BIH database. This system accurately detects various heartbeat rates and provides diagnoses, making it a valuable tool for healthcare settings.
-
-- **Technologies:** Python, Scikit-learn, TensorFlow/Keras, Pandas, NumPy
-- **Impact:** Designed to assist medical professionals in moderate hospitals with efficient and accurate cardiac condition assessment.
-
-### [Prosthetic CAD AI Assistant](https://github.com/rufuspitta-ux/prosthectic-cad-ai)
-
-An innovative **AI-powered CAD assistant** that leverages Ollama and FreeCAD to generate 3D models from natural language descriptions. This project streamlines the design process for prosthetic devices, enabling rapid prototyping and customization.
-
-- **Technologies:** Python, Ollama, FreeCAD API, Natural Language Processing (NLP)
-- **Impact:** Revolutionizing prosthetic design by making 3D model generation accessible and efficient through intuitive language commands.
-
-## 🛠️ Skills & Technologies
-
-**Languages:** Python, JavaScript, TypeScript
-**Machine Learning:** TensorFlow, Keras, Scikit-learn, PyTorch
-**Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-**Cloud & DevOps:** Docker, Git, GitHub Actions
-**CAD:** FreeCAD
-**Other:** Natural Language Processing (NLP), Computer Vision, API Development
-
-## 🌱 I'm currently learning
-
-Exploring advanced MLOps practices and diving deeper into generative AI models for creative applications.
-
-## 📫 Get in Touch
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com) (Please replace with your actual email)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your_twitter](https://twitter.com/your_twitter) (Please replace with your actual Twitter handle)
+Open to full-time roles in medtech, biomedical engineering, and healthcare AI — 
+actively targeting opportunities in Ireland 🇮🇪, Singapore 🇸🇬, Japan 🇯🇵, and UAE 🇦🇪.
 
 ---
 
-⭐️ From [rufuspitta-ux](https://github.com/rufuspitta-ux)
+## 🔬 Projects
+
+### 🫀 [ECG Arrhythmia Classifier](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier)
+> Cardiac arrhythmia detection using clinical ECG data — built for real hospital use
+
+- Trained on the **MIT-BIH Arrhythmia Database** (48 half-hour ECG recordings)
+- Classifies multiple arrhythmia types with ML pipeline built in Python
+- Designed for deployment in moderate-resource hospital environments
+- Built with: `Python` `Scikit-learn` `TensorFlow/Keras` `Pandas` `NumPy`
+
+---
+
+### 🦾 [Prosthetic CAD AI Assistant](https://github.com/rufuspitta-ux/prosthectic-cad-ai)
+> Natural language → 3D prosthetic model, powered by local LLM
+
+- Generates functional 3D CAD models from plain English descriptions
+- Integrates **Ollama (local LLM)** with **FreeCAD API** — no cloud dependency
+- Cuts design iteration time for custom prosthetic components
+- Built with: `Python` `Ollama` `FreeCAD API` `NLP`
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | Python |
+| **Machine Learning** | TensorFlow, Keras, Scikit-learn |
+| **Data Science** | Pandas, NumPy, Matplotlib |
+| **CAD & Prototyping** | FreeCAD |
+| **Domains** | Medical Signal Processing, Clinical AI, NLP, Assistive Devices |
+
+---
+
+## 📌 What I Bring
+
+- ✅ Hands-on project experience in **clinical AI and medical device design**
+- ✅ Focus on **physical, deployable prototypes** — not just code
+- ✅ Strong awareness of **real-world hospital constraints** (cost, accuracy, access)
+- ✅ Actively building toward **international medtech industry standards**
+
+---
+
+## 📫 Contact
+
+- 📧 [rufuspitta@gmail.com](mailto:rufuspitta@gmail.com)
+- 💼 [LinkedIn — Rufus Pitta](https://www.linkedin.com/in/rufus-pitta)
