@@ -1,123 +1,183 @@
-# Rufus Pitta - Biomedical Engineer & Medical AI Developer
+# Rufus Pitta 👋
 
-## 👋 Welcome!
+**Healthcare AI & Machine Learning Engineer | Biomedical Engineering Specialist**
 
-I'm a final-year **Biomedical Engineering student** specializing in **medical AI**, **clinical signal processing**, and **assistive device development**. I build end-to-end systems that bridge hardware and software — from ECG classifiers trained on clinical databases to AI-assisted CAD tools for prosthetic design.
+Building intelligent solutions that bridge clinical needs with cutting-edge AI and automation technology. Passionate about healthcare innovation, machine learning, assistive devices, and making technology accessible.
 
-**Actively seeking full-time roles** in medtech, biomedical engineering, and healthcare AI — targeting opportunities in 🇮🇪 Ireland, 🇸🇬 Singapore, 🇯🇵 Japan, and 🇦🇪 UAE.
+Actively seeking full-time roles in medtech, biomedical engineering, and healthcare AI — targeting opportunities in Ireland 🇮🇪, Singapore 🇸🇬, Japan 🇯🇵, and UAE 🇦🇪.
 
 ---
 
 ## 🔬 Featured Projects
 
-### 🫀 [ECG Arrhythmia Classifier](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier)
-**Professional-grade cardiac arrhythmia detection system**
+### [ECG Arrhythmia Classifier](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier)
+**Professional-grade cardiac arrhythmia detection system using machine learning**
 
-- Trained on **MIT-BIH Arrhythmia Database** (92,781 annotated beats)
-- Multi-class classification of 5 heartbeat types (Normal, PVC, RBBB, LBBB, APC)
-- 90%+ accuracy with <50ms inference time
-- Clinical-grade PDF report generation
-- Production-ready with HIPAA-aware design principles
-- **Tech:** Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy
+- 🎯 Multi-class heartbeat classification (Normal, PVC, RBBB, LBBB, APC)
+- 📊 90%+ accuracy on MIT-BIH Arrhythmia Database (92,781 annotated beats)
+- ⚡ Real-time processing (<50ms per beat)
+- 🏥 Clinical-grade PDF reports with voice alerts
+- 🔐 HIPAA-aware design principles
+- 📈 Production-ready with comprehensive documentation
 
-[View Repository →](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier)
+**Tech Stack:** Python • TensorFlow/Keras • Scikit-learn • Pandas • NumPy • ReportLab
+
+![Python 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-red.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 ---
 
-### 🦾 [Prosthetic CAD AI Assistant](https://github.com/rufuspitta-ux/prosthectic-cad-ai)
-**AI-powered CAD generation for prosthetic design**
+### [Prosthetic CAD AI](https://github.com/rufuspitta-ux/prosthectic-cad-ai)
+**AI-powered CAD assistant using natural language and local LLMs to generate 3D prosthetic models**
 
-- Natural language → 3D prosthetic models (powered by local LLM)
-- Integrates **Ollama** (local LLM) with **FreeCAD API** — no cloud dependency
-- Supports multiple prosthetic types (upper/lower limb, hand, foot)
-- Cuts design iteration time from hours to minutes
-- Privacy-first, HIPAA-compatible architecture
-- **Tech:** Python, Ollama, FreeCAD API, LangChain, FastAPI
+- 🤖 Natural language → 3D prosthetic models
+- 🦾 Support for multiple prosthetic types (hand, foot, arm, leg)
+- 🔒 Local Ollama integration (privacy-first, no cloud transmission)
+- 📦 FreeCAD automation for 3D design
+- ⚙️ FastAPI backend with REST API
+- ⏱️ ~45 seconds per design generation
 
-[View Repository →](https://github.com/rufuspitta-ux/prosthectic-cad-ai)
+**Tech Stack:** Python • Ollama • FreeCAD API • FastAPI • LangChain • Pydantic
+
+![Python 3.9+](https://img.shields.io/badge/Python-3.9+-green.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009485.svg)
+![Ollama](https://img.shields.io/badge/Ollama-LLM-ff69b4.svg)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Area | Technologies |
-|------|--------------|
-| **Programming** | Python, JavaScript, SQL |
-| **Machine Learning** | TensorFlow, Keras, Scikit-learn, PyTorch |
-| **Data Science** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Medical/Signal Processing** | ECG analysis, Biomedical signal processing, DICOM, waveform analysis |
-| **CAD & Design** | FreeCAD, SolidWorks, 3D modeling |
-| **Web & APIs** | FastAPI, Flask, REST, Docker |
-| **Domains** | Medical AI, Clinical Signal Processing, NLP, Assistive Devices, Healthcare AI |
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • JavaScript • SQL |
+| **ML & AI** | TensorFlow • Keras • Scikit-learn • PyTorch • LangChain |
+| **Data Science** | Pandas • NumPy • Matplotlib • Seaborn • SciPy |
+| **Medical/Signal Processing** | ECG analysis • Biomedical signals • DICOM • Waveform analysis |
+| **Healthcare Tech** | HIPAA compliance • Medical device development • Clinical systems |
+| **CAD & Design** | FreeCAD • SolidWorks • 3D modeling • Design automation |
+| **Backend & DevOps** | FastAPI • Flask • Docker • GitHub Actions • REST APIs |
+| **Specialized Domains** | Medical AI • Clinical signal processing • NLP • Assistive devices |
 
 ---
 
-## 📌 What I Bring
+## 🎓 What I Bring
 
 ✅ **Hands-on project experience** in clinical AI and medical device design  
-✅ **Focus on physical, deployable prototypes** — not just code  
-✅ **Strong awareness of real-world hospital constraints** (cost, accuracy, access)  
-✅ **Building toward international medtech industry standards**  
-✅ **Healthcare compliance mindset** (HIPAA, medical device regulations)
+✅ **Production-ready systems** — not just prototypes  
+✅ **Healthcare compliance mindset** — HIPAA, regulations, real-world constraints  
+✅ **Real-time processing expertise** — <50ms latency critical medical applications  
+✅ **Privacy-first architecture** — local processing, zero cloud dependency  
+✅ **Comprehensive documentation** — security policies, changelogs, contribution guidelines  
+✅ **Open source commitment** — MIT-licensed, community-driven projects  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Key Achievements
 
-- 🔥 Active contributor to medical AI and healthcare tech
-- 📈 Focused on real-world, production-ready solutions
-- 🚀 Building projects that can save lives
-- 🤝 Open to collaboration and contributions
-
----
-
-## 📚 Featured Work
-
-### Recent Highlights
-- **ECG Classification System:** 90%+ accuracy on clinical arrhythmia detection
-- **Prosthetic Design Automation:** Reduced CAD design time by 90%
-- **Clinical-Grade Documentation:** PDF reports, audit logging, compliance-ready
-- **Privacy-First Architecture:** All processing local, zero cloud dependency
+- ✅ Built 2 production-ready healthcare AI systems
+- ✅ 90%+ accuracy ECG classification on clinical dataset
+- ✅ Real-time signal processing with <50ms latency
+- ✅ HIPAA-compliant architecture design
+- ✅ Comprehensive security and deployment policies
+- ✅ Complete documentation with best practices
+- ✅ Version-controlled with proper dependency management
 
 ---
 
-## 🤝 Open to Collaboration
+## 🔗 Connect & Collaborate
 
-I'm interested in:
-- **Medtech startups** — healthcare innovation
-- **Clinical AI research** — real-world applications
-- **Medical device development** — from concept to deployment
-- **Open-source healthcare** — advancing accessibility
-- **International projects** — remote-friendly, mission-driven
+- 📧 **Email:** [rufuspitta@gmail.com](mailto:rufuspitta@gmail.com)
+- 💼 **LinkedIn:** [Rufus Pitta](https://linkedin.com/in/rufus-pitta)
+- 🐙 **GitHub:** [@rufuspitta-ux](https://github.com/rufuspitta-ux)
 
----
-
-## 📫 Get in Touch
-
-- **Email:** [rufuspitta@gmail.com](mailto:rufuspitta@gmail.com)
-- **LinkedIn:** [Rufus Pitta](https://linkedin.com/in/rufus-pitta)
-- **GitHub:** [@rufuspitta-ux](https://github.com/rufuspitta-ux)
-- **Location:** Currently based in [Your Location], open to relocation
+**Open to:**
+- Healthcare AI and medtech projects
+- Clinical device development
+- ML consulting and collaboration
+- Open source contributions
+- International remote opportunities
 
 ---
 
-## 🎯 Currently Working On
+## 🌟 Repository Highlights
 
-- Expanding ECG classifier to multi-lead support
-- Developing web dashboard for prosthetic CAD AI
-- Exploring ensemble models for improved clinical accuracy
-- Researching real-time streaming ECG analysis
-
----
-
-## 🌟 Philosophy
-
-> **Building healthcare technology that matters.** Every project I work on has one goal: to make a real difference in people's lives. Whether it's early detection of cardiac issues or faster prosthetic design, I'm committed to technology that serves humanity.
+**All projects feature:**
+- ✅ Comprehensive README documentation
+- ✅ Contributing guidelines
+- ✅ Security policies
+- ✅ Version changelogs
+- ✅ Version-pinned dependencies
+- ✅ MIT open source licensing
+- ✅ Professional code structure
 
 ---
 
-**Made with ❤️ for healthcare | Committed to open-source medical innovation**
+## 🚀 Current Focus
+
+**Working on:**
+- Advanced ECG analysis and cardiac diagnostics
+- AI-assisted medical device design automation
+- Privacy-first healthcare AI solutions
+- Clinical validation and regulatory pathways
+- Web dashboards and visualization tools
+
+**Always interested in:**
+- Healthcare innovation challenges
+- Clinical AI applications
+- Machine learning optimization
+- Prosthetics & assistive technology
+- Open source healthcare projects
 
 ---
 
-*Last updated: June 2026*
+## 📚 Documentation & Resources
+
+- 🏥 [ECG Arrhythmia Classifier](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier) — Comprehensive medical AI system
+- 🦾 [Prosthetic CAD AI](https://github.com/rufuspitta-ux/prosthectic-cad-ai) — AI-powered design automation
+- 📖 [Contributing Guidelines](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier/blob/main/CONTRIBUTING.md)
+- 🔒 [Security Policies](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier/blob/main/SECURITY.md)
+- 📋 [Community Code of Conduct](CODE_OF_CONDUCT.md)
+
+---
+
+## 💡 Philosophy
+
+> "Technology should make healthcare more accessible, not more complex. Privacy should be a feature, not an afterthought. Open source democratizes innovation."
+
+Building healthcare AI with **purpose**, **transparency**, and a commitment to making a real difference in people's lives.
+
+---
+
+## 🤝 Contributions Welcome
+
+I actively maintain and improve these projects. Contributions, feedback, and collaborations are welcome!
+
+**Areas actively seeking contributions:**
+- [ ] Web UI development
+- [ ] Additional prosthetic types
+- [ ] Performance optimization
+- [ ] Documentation improvements
+- [ ] Clinical validation partnerships
+- [ ] Mobile app development
+
+See individual repository [CONTRIBUTING.md](https://github.com/rufuspitta-ux/ecg-arrhythmia-classifier/blob/main/CONTRIBUTING.md) for guidelines.
+
+---
+
+## 📈 Impact & Vision
+
+My mission is to democratize healthcare AI by building:
+- **Accessible tools** for medical professionals
+- **Privacy-respecting systems** that keep patient data local
+- **Production-ready code** that saves lives
+- **Open source solutions** that advance the entire healthcare ecosystem
+
+---
+
+**Made with ❤️ for healthcare | Committed to medical innovation**
+
+*Last Updated: June 2026 | All projects actively maintained | Status: Production Ready*
